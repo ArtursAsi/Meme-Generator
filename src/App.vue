@@ -1,3 +1,4 @@
+
 <template>
   <div id="app">
     <div id="nav">
@@ -7,7 +8,9 @@
     <router-view />
   </div>
 </template>
+<script>
 
+</script>
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -29,4 +32,6 @@
 #nav a.router-link-exact-active {
   color: #42b983;
 }
+
+
 </style>
