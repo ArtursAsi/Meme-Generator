@@ -63,5 +63,13 @@
         flex: 1 0 auto;
     }
 
+    @media screen and (max-width: 770px) {
+        .container{
+            padding-left: 0!important;
+            padding-right: 0!important;
+        }
+
+    }
+
 
 </style>

@@ -104,7 +104,17 @@
                     "Vemana2000",
                     "Droid Sans",
                     "Pacifico"],
-                fontColors: ["black", "green", "red", "purple", "yellow", "orange", "blue", "pink", "gray"]
+                fontColors: ["black",
+                    "green",
+                    "red",
+                    "purple",
+                    "yellow",
+                    "orange",
+                    "blue",
+                    "pink",
+                    "gray",
+                    "white",
+                    "brown",]
 
             }
         },
@@ -259,6 +269,7 @@
         .download-button {
             width: 100%;
         }
+
 
 
     }
